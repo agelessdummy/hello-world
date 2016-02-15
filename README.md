@@ -1,2 +1,5 @@
 # hello-world
-first repo
+
+Hi, I'm Luis. 
+
+I just graduated. 
